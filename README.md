@@ -1,2 +1,4 @@
 # Manora-Website
-URL : manora-island.web.app
+# Visit this site online
+
+[Click here](manora-island.web.app)
